@@ -1,15 +1,21 @@
-# Timeline Stories UI
+# Quick Stories v2
 
-A simple and elegant web project that displays short stories along a vertical timeline.
+A clean and modern timeline UI to present short stories in an engaging way.
 
 ## ✨ Features
-- Vertical timeline layout with alternating story cards
-- Fully responsive design (mobile-friendly)
-- Clean UI with soft shadows and modern styling
-- Automatic dark mode support
-- Accessible structure (ARIA & readable content)
-- Print-friendly (only open story dialog prints)
+- Vertical timeline layout
+- Alternating story cards (left/right)
+- Responsive design (mobile-friendly)
+- Elegant styling with dark mode
+- Accessible dialogs for reading stories
+- Print-friendly (only open story prints)
 
 ## 🛠️ Built With
-- HTML5
-- CSS3 (Grid, Flexbox, Variables)
+- HTML
+- CSS
+
+## 🚀 Usage
+Clone the repo and open `index.html` in your browser.
+
+## 📌 Purpose
+Showcase short stories using a simple and visually appealing timeline design.
